@@ -1,0 +1,4 @@
+student_id,full_name,email,course,year,section,contact_number
+2026-10001,Maria Santos,maria.santos@example.com,BS Computer Science,1,A,09171234567
+2026-10002,Jose Reyes,jose.reyes@example.com,BS Accountancy,2,B,09181234567
+2026-10003,Ana Garcia,ana.garcia@example.com,BS Education,3,C,09191234567
